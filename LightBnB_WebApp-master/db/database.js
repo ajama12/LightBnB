@@ -102,7 +102,7 @@ const getAllReservations = (guest_id, limit = 10) => {
       // console.log(err.message);
       throw err;
     });
-};
+  };
 
 /// Properties
 
@@ -124,7 +124,6 @@ const getAllProperties = (options, limit = 10) => {
       console.log(err.message);
     });
 };
-
 
 /**
  * Add a property to the database
