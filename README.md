@@ -1,7 +1,8 @@
 # LightBnB
-*This is an AirBnB-like application where users can look through, add and review properties. Users can also filter through properties based on their location, price, and ratings.
-* A simple multi-page Airbnb clone that uses a server-side Javascript to display the information from queries to web pages via SQL queries.
+This is an AirBnB-like application where users can look through, add and review properties. Users can also filter through properties based on their location, price, and ratings.
 
+# Home Page
+!["Home page"](https://github.com/ajama12/LightBnB/blob/master/LightBnB-home.png)
 
 # Getting Started
 - Install necessary dependencies by running `npm install` command.
